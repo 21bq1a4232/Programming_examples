@@ -1,0 +1,8 @@
+front end(html,css,js,angular,react) :
+{Pranav,Nikhitha,Tejaswini,Vyshanvi,Narendra}
+cloud data(Not choosen):
+{Pranav,Niharika,Sanjay,Vijaya Lakshmi}
+back end development():
+{Pranav,Naveen,Dinesh,Tribhuvan}
+android development():
+{Pranav,Pravalika,Kusuma,Jyothi}\
